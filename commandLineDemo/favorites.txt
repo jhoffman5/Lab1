@@ -1,1 +1,6 @@
 chicken and dumplings soup
+apple
+hamburger
+pizza
+reuben sandwich
+spaghetti
